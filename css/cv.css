@@ -1,36 +1,44 @@
-body{font-family:cursive;
+body{
+    font-family: 'Courier New', Courier, monospace;
     background-image: url(../img/fond.jpg);
-background-size: cover;}
+    background-size: cover;
+}
+    
+header ul li {
+    display: inline-block;
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
 
-    header ul li {display: inline-block;
-        padding: 10px;
-        color: black;
-        font-size: 18px;
-        font-family: 'Courier New', Courier, monospace;
-        text-align: center;}
-
-    h1{font-family: 'Courier New', Courier, monospace;
-        text-align: center;}
+ h1{
+    text-align: center;
+ }
 
 header{
     border-width: 5px;
     border-style: solid;
-    border-color: black;} 
+    border-color: black;
+} 
 
-         h2{font-family: 'Courier New', Courier, monospace;
-        text-align: center;}   
+h2{
+    text-align: center;
+}   
 
-             p{font-family: 'Courier New', Courier, monospace;}
-             h3{font-family: 'Courier New', Courier, monospace;}
 
-             li{font-family: 'Courier New', Courier, monospace;}
+#moi{
+    width: 250px;
+    height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#linkedin{
+    width: 70px;
+}
 
-#moi{width: 250px;
-height: 250px;
-display: block;
-margin-left: auto;
-margin-right: auto;}
-        #linkedin{width: 70px;}
-
-            ul#Coordonnees li {display: inline-block;
-            text-align: center;}
+ul#Coordonnees li {
+    display: inline-block;
+    text-align: center;
+}
