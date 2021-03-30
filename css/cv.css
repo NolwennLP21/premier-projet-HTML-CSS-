@@ -1,6 +1,6 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img/fond.jpg);
+    background-image: url(../img/watercolor.jpg);
     background-size: cover;
 }
     
@@ -14,11 +14,12 @@ header ul li {
 
  h1{
     text-align: center;
+    font-family:'Train One', cursive;
  }
 
 header{
     border-width: 5px;
-    border-style: solid;
+    border-style: groove;
     border-color: black;
 } 
 
@@ -37,8 +38,12 @@ h2{
 #linkedin{
     width: 70px;
 }
-
 ul#Coordonnees li {
     display: inline-block;
     text-align: center;
+}
+footer{
+    border-width: 5px;
+    border-style: groove;
+    border-color: black;
 }
