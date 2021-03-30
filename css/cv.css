@@ -1,43 +1,32 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img/watercolor.jpg);
+    background-image: url(../img/color.jpg);
     background-size: cover;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Alice', serif;
+    color: snow;
 }
-    
 header ul li {
     display: inline-block;
     padding: 10px;
-    color: black;
+    color: snow;
     font-size: 18px;
     text-align: center;
-    font-family:'Roboto', sans-serif;
+    font-family:'Alice', serif;
 }
-
- h1{
+h1{
     text-align: center;
     font-family:'Lateef', cursive;
     font-size: 75px;
-    color: #261458;
-    
+    color:#CBC0E8;   
  }
-
-header{
-    border-width: 5px;
-    border-style: groove;
-    border-color: black;
-} 
-
 h2{
     text-align: center;
     font-family:'Lateef', cursive;
     font-size: 40px;
 }   
-
-
 #moi{
-    width: 250px;
-    height: 250px;
+    width: 350px;
+    height: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -50,10 +39,8 @@ ul#Coordonnees li {
     text-align: center;
 }
 footer{
-    border-width: 5px;
-    border-style: groove;
-    border-color: black;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Alice', serif;
+    background-color: rgba(220,220,220,0.5);
 }
 h3{
     font-family:'Lateef', cursive;
