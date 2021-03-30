@@ -1,14 +1,14 @@
 body{
     font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img/color.jpg);
+    background-image: url(../img/watercolor1.jpg);
     background-size: cover;
-    font-family: 'Alice', serif;
-    color: snow;
+    font-family:'Alice', serif;
+}
+header{background-color: rgba(234,236,238,0.5);
 }
 header ul li {
     display: inline-block;
     padding: 10px;
-    color: snow;
     font-size: 18px;
     text-align: center;
     font-family:'Alice', serif;
@@ -17,8 +17,7 @@ h1{
     text-align: center;
     font-family:'Lateef', cursive;
     font-size: 75px;
-    color:#CBC0E8;   
- }
+}
 h2{
     text-align: center;
     font-family:'Lateef', cursive;
@@ -39,7 +38,7 @@ ul#Coordonnees li {
     text-align: center;
 }
 footer{
-    font-family: 'Alice', serif;
+    font-family:'Alice', serif;
     background-color: rgba(220,220,220,0.5);
 }
 h3{
