@@ -1,79 +1,91 @@
-body {
-    font-family: 'Courier New', Courier, monospace;
-    background-image: url(../img/watercolor1.jpg);
-    background-size: cover;
-    font-family: 'Alice', serif;
-}
-
-header {
-    background-color: rgba(234, 236, 238, 0.5);
-}
-
-header ul li {
-    display: inline-block;
-    padding: 10px;
-    font-size: 18px;
-    text-align: center;
-    font-family: 'Alice', serif;
-}
-
-header ul {
-    text-align: center;
-}
-
-h1 {
-    text-align: center;
-    font-family: 'Lateef', cursive;
-    font-size: 75px;
-}
-
-h2 {
-    text-align: center;
-    font-family: 'Lateef', cursive;
-    font-size: 40px;
-    text-decoration: overline;
-}
-
-#moi {
-    width: 350px;
-    height: 350px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-#linkedin {
-    width: 70px;
-}
-
-ul#Coordonnees li {
-    display: inline-block;
-    text-align: center;
-}
-
-footer {
-    font-family: 'Alice', serif;
-    background-color: rgba(220, 220, 220, 0.5);
-    text-align: center;
-}
-
-h3 {
-    font-family: 'Lateef', cursive;
-    font-size: 30px;
-}
-
-#global {
-    margin-left: auto;
-    margin-right: auto;
-    width: 150px;
-}
-
-#global1 {
-    margin-left: auto;
-    margin-right: auto;
-    width: 800px;
-}
-
-.gras {
-    font-weight: bold;
-}
+    body {
+        font-family: 'Courier New', Courier, monospace;
+        background-image: url(../img/watercolor1.jpg);
+        background-size: cover;
+        font-family: 'Alice', serif;
+    }
+    
+    header {
+        background-color: rgba(234, 236, 238, 0.5);
+    }
+    
+    header ul li {
+        margin-left: 0;
+        padding: 3px 15px;
+        border-left: 1px solid #000;
+        list-style: none;
+        display: inline;
+        font-family: 'Alice', serif;
+    }
+    
+    header ul {
+        text-align: center;
+    }
+    
+    h1 {
+        text-align: center;
+        font-family: 'Lateef', cursive;
+        font-size: 75px;
+    }
+    
+    h2 {
+        text-align: center;
+        font-family: 'Lateef', cursive;
+        font-size: 40px;
+        text-decoration: overline;
+    }
+    
+    #moi {
+        width: 350px;
+        height: 350px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    
+    #linkedin {
+        width: 60px;
+    }
+    
+    ul#Coordonnees li {
+        text-align: center;
+        margin-left: 0;
+        padding: 3px 15px;
+        list-style: none;
+        display: inline;
+        border-left: 1px solid #000;
+    }
+    
+    footer {
+        background-color: rgba(220, 220, 220, 0.5);
+    }
+    
+    footer ul {
+        font-family: 'Alice', serif;
+        text-align: center;
+    }
+    
+    h3 {
+        font-family: 'Lateef', cursive;
+        font-size: 30px;
+    }
+    
+    .global {
+        margin-left: auto;
+        margin-right: auto;
+        width: 150px;
+    }
+    
+    .global1 {
+        margin-left: auto;
+        margin-right: auto;
+        width: 800px;
+    }
+    
+    .gras {
+        font-weight: bold;
+    }
+    
+    .gras1 {
+        font-weight: bold;
+    }
