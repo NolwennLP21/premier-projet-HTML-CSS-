@@ -1,0 +1,16 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -60,11 +60,11 @@
+ 
+                 </p>
+         <footer>
+-                <h2 id="click">Coordoneés</h2>
++                <h2 id="click">Coordonées</h2>
+             <ul id="Coordonnees" >
+-                <li>Téléphone : 07-71-87-52-77 </li>
++                <li>Téléphone :<a href="tel:+33771875277"> 07-71-87-52-77 </a></li>
+                 <li>e-mail:<a href="mailto:leperffnolwenn@gmail.com">leperffnolwenn@gmail.com</a></li> 
+-                <li><a href = "https://www.linkedin.com/in/nolwenn-le-perff-313912209/"><img src="./img/linkedin.jpg" alt="linkedin" id="linkedin"></a></li>
++                <li><a href = "https://www.linkedin.com/in/nolwenn-le-perff-313912209/"><img src="./img/linkedin1.jpg" alt="linkedin" id="linkedin"></a></li>
+             </ul>
+         </footer>
+      </body>
