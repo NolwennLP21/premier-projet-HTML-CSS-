@@ -31,6 +31,7 @@ h2 {
     text-align: center;
     font-family: 'Lateef', cursive;
     font-size: 40px;
+    text-decoration: overline;
 }
 
 #moi {
@@ -71,4 +72,8 @@ h3 {
     margin-left: auto;
     margin-right: auto;
     width: 800px;
+}
+
+.gras {
+    font-weight: bold;
 }
