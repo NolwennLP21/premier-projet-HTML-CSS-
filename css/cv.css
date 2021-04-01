@@ -1,51 +1,74 @@
-body{
+body {
     font-family: 'Courier New', Courier, monospace;
     background-image: url(../img/watercolor1.jpg);
     background-size: cover;
-    font-family:'Alice', serif;
+    font-family: 'Alice', serif;
 }
-header{background-color: rgba(234,236,238,0.5);
+
+header {
+    background-color: rgba(234, 236, 238, 0.5);
 }
+
 header ul li {
     display: inline-block;
     padding: 10px;
     font-size: 18px;
     text-align: center;
-    font-family:'Alice', serif;
+    font-family: 'Alice', serif;
 }
+
 header ul {
     text-align: center;
 }
-h1{
+
+h1 {
     text-align: center;
-    font-family:'Lateef', cursive;
+    font-family: 'Lateef', cursive;
     font-size: 75px;
 }
-h2{
+
+h2 {
     text-align: center;
-    font-family:'Lateef', cursive;
+    font-family: 'Lateef', cursive;
     font-size: 40px;
-}   
-#moi{
+}
+
+#moi {
     width: 350px;
     height: 350px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
-#linkedin{
+
+#linkedin {
     width: 70px;
 }
+
 ul#Coordonnees li {
     display: inline-block;
     text-align: center;
 }
-footer{
-    font-family:'Alice', serif;
-    background-color: rgba(220,220,220,0.5);
+
+footer {
+    font-family: 'Alice', serif;
+    background-color: rgba(220, 220, 220, 0.5);
     text-align: center;
 }
-h3{
-    font-family:'Lateef', cursive;
+
+h3 {
+    font-family: 'Lateef', cursive;
     font-size: 30px;
+}
+
+#global {
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+}
+
+#global1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
 }
